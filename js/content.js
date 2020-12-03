@@ -47,7 +47,7 @@ const images = [
   {src: 'img/Asset_7.svg', width: 215.65, height: 138.67},
   {src: 'img/Asset_8.svg', width: 251.67, height: 266.92},
   {src: 'img/Asset_9.svg', width: 211.51, height: 246.24},
-  {src: 'img/Asset_57.svg', width: 267.02, height: 218.31},
+  {src: 'img/Asset_57.svg', width: 267.02, height: 218.31}
 ]
 
 function getImage(img) {
